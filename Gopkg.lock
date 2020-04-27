@@ -49,7 +49,7 @@
   branch = "master"
   name = "github.com/martinboehm/btcd"
   packages = ["blockchain","btcec","chaincfg","chaincfg/chainhash","database","txscript","wire"]
-  revision = "8e7c0427fee5d4778c5d4eb987150369e3ca1d0e"
+  revision = "83af86142d93bb4340e85352d6f8d974c196ffe9"
 
 [[projects]]
   branch = "master"
@@ -78,8 +78,8 @@
 [[projects]]
   name = "github.com/decred/dcrd"
   packages = ["chaincfg","chaincfg/chainec","chaincfg/chainhash","dcrec","dcrec/edwards","dcrec/secp256k1","dcrec/secp256k1/schnorr","dcrjson","dcrutil","txscript","wire"]
-  revision = "0fe564967f03160b9dbe0a147420d8aa13371d12"
-  version = "v1.3.0"
+  revision = "e3e8c47c68b010dbddeb783ebad32a3a4993dd71"
+  version = "v1.4.0"
 
 [[projects]]
   name = "github.com/decred/slog"
@@ -145,7 +145,7 @@
   branch = "master"
   name = "github.com/martinboehm/btcutil"
   packages = [".","base58","bech32","chaincfg","hdkeychain","txscript"]
-  revision = "225ed00dbbd5cb8d8b3949a0ee7c9ea540754585"
+  revision = "d7706467ae8f226fc75667a7da185964698d2373"
 
 [[projects]]
   branch = "master"
@@ -235,7 +235,7 @@
   branch = "master"
   name = "golang.org/x/crypto"
   packages = ["ripemd160", "sha3"]
-  revision = "d6449816ce06963d9d136eee5a56fca5b0616e7e"
+  revision = "a832865fa7ada6126f4c6124ac49f71be71bff2a"
 
 [[projects]]
   branch = "master"
